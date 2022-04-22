@@ -17,3 +17,6 @@
 
 ## SalaryAutoGen
 财务可能用的到的工资条生成器
+
+## SNAutoChecker
+产线出货SN扫码校验器 
