@@ -1,1 +1,1 @@
-自带宏和控制按钮的Excel 模版文件.
+XLSM文件已启用宏电子表格 由Microsoft Excel创建，这是Microsoft Office套件的每个版本随附的一种广泛使用的电子表格程序。 它包含按行和列排列以及嵌入的单元格工作表宏 使用Visual Basic for Applications（VBA）语言进行编程。
