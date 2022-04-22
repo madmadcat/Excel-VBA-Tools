@@ -12,5 +12,8 @@
 - 在模版中使用此工具即可在模版文件所在目录中生成到处的TXT和BIN文件.
 
 ### 环境要求
-- Office Excel版本 不低于 2016.
-- Office Excel 需要打开宏支持
+- Office Excel 版本不低于2016.
+- Office Excel 需要打开宏支持.
+
+## SalaryAutoGen
+财务可能用的到的工资条生成器
